@@ -594,4 +594,4 @@ Overall, the analysis provides a structured example of how data analytics can be
 
 ## Acknowledgments & AI Usage
 
-AI tools were used to support the data analysis, processing, and visualisation for this project. All methodologies, findings, and final results were independently reviewed and validated by the author.
+Artificial intelligence tools were utilized during the data analysis, processing, and visualization phases of this study. The author independently reviewed, verified, and takes full responsibility for all methodologies, findings, and final results.
