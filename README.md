@@ -73,8 +73,9 @@ The main objectives of this project are to:
 
 ## 🗂️ Dataset
 
-The dataset contains **500 records and 13 original columns**.
 * **Mount Everest Accident Dataset (2020–2025):** Created by [Syed Muhammad Bilal](https://www.kaggle.com/syedmuhammadbilal12) and hosted on [Kaggle](https://www.kaggle.com/datasets/syedmuhammadbilal12/mount-everest-accident-dataset-2020-2025).
+
+The dataset contains **500 records and 13 original columns**.
 
 ### Original Columns
 
