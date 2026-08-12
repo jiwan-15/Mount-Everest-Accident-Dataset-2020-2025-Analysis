@@ -34,7 +34,6 @@
 * [Future Improvements](#-potential-future-improvements)
 * [Conclusion](#-conclusion)
 * [Author](#-author)
-* [License](#-license)
 
 ---
 
