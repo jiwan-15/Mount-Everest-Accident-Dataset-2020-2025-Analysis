@@ -592,12 +592,6 @@ Overall, the analysis provides a structured example of how data analytics can be
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## Acknowledgments & AI Usage
 
 AI tools were used to support the data analysis, processing, and visualisation for this project. All methodologies, findings, and final results were independently reviewed and validated by the author.
